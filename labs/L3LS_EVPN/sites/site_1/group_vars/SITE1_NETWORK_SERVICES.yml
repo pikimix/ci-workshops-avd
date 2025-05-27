@@ -17,4 +17,4 @@ tenants:
           - id: 30
             name: 'Thirty'
             enabled: true
-            ip_address_virtual: 10.20.20.1/24
+            ip_address_virtual: 10.20.30.1/24
